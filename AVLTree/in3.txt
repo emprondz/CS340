@@ -1,0 +1,24 @@
+100 Mary Shelley 8 30 1791
+50 Anton Chekhov 1 29 1860
+5 Virginia Woolf 1 25 1882
+75 Jane Austen 12 16 1775
+2 James Joyce 2 2 1882
+80 Oscar Wilde 10 16 1854
+12 Iris Murdoch 7 15 1919
+# 50
+# 5
+90 Leo Tolstoy 9 9 1828
+200 Fyodor Dostoyevsky 11 11 1821
+# 2
+150 Franz Kafka 7 3 1883
+# 75
+300 Albert Camus 11 7 1913
+125 Hannah Arendt 10 14 1906
+110 Simone Beauvoir 1 9 1908
+# 150
+95 Mary Wollstonecraft 4 27 1759
+130 Vladimir Nabokov 4 22 1899
+3 Muriel Spark 2 1 1918
+25 Zora Hurston 1 7 1891
+97 James Baldwin 8 2 1924
+# 300
